@@ -26,7 +26,7 @@ The configuration.json files contain all of the configurable values.
 ## Installation
 * Download ClevoFanControl.zip from https://github.com/Mirika1/Clevo-Fan-Control/releases/
 * Extract the folder
-* Install NTPostDrvSetup
+* Install NTPostDrvSetup (if not already installed)
   * NTPort library might give you an error message during the installation, but this can be ignored as the driver should still be installed
 * Launch Clevo Fan Control.exe
 * The app will start minimized to the system tray

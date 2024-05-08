@@ -1,5 +1,5 @@
 # Clevo Fan Control
-A fan control app for Clevo laptops.
+A fan control app for Clevo laptops. This app does not require uninstalling the Clevo Control Center, so you can keep it and still use its features if you want to.
 
 ## Credits
 This app was originally created by [oleuzop](https://github.com/oleuzop). I only made some changes and added some new features.

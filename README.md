@@ -9,7 +9,7 @@ This app was originally created by [oleuzop](https://github.com/oleuzop). I only
 * Added fan presets. Up to 6 fan presets can be created, and you can load them by clicking on the "Load Configuration" button or right-clicking on the system tray icon
   * When the app is started, the default fan preset (Preset 1) is always selected
 * The minimum fan RPM is no longer 80% of the fan running at max RPM. Both fans can now be set to any speed without affecting the other
-* Changed the app icon. The icon is from the discontinued Obsidian Fan Control app.
+* Changed the app icon. The icon is from the discontinued Obsidian Fan Control app
 * Added a Restart and Minimize button
 ## Existing Features
 * Fan temperature check and RPM modification are executed every XXX ms (250ms by default)
@@ -24,6 +24,8 @@ This app was originally created by [oleuzop](https://github.com/oleuzop). I only
 The configuration.json files contain all of the configurable values.
 
 ## Installation
+* Download ClevoFanControl.zip from https://github.com/Mirika1/Clevo-Fan-Control/releases/
+* Extract the folder
 * Install NTPostDrvSetup
   * NTPort library might give you an error message during the installation, but this can be ignored as the driver should still be installed
 * Launch Clevo Fan Control.exe
